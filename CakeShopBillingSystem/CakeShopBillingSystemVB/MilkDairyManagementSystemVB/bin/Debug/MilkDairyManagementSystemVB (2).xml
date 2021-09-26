@@ -1,0 +1,116 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MilkDairyManagementSystemVB
+</name>
+</assembly>
+<members>
+<member name="T:MilkDairyManagementSystemVB.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MilkDairyManagementSystemVB.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MilkDairyManagementSystemVB.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:MilkDairyManagementSystemVB.My.Resources.Resources._01234png">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MilkDairyManagementSystemVB.My.Resources.Resources._1235_png">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MilkDairyManagementSystemVB.My.Resources.Resources._651891">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MilkDairyManagementSystemVB.My.Resources.Resources._651891_png">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MilkDairyManagementSystemVB.My.Resources.Resources._exit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MilkDairyManagementSystemVB.My.Resources.Resources.add_acc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MilkDairyManagementSystemVB.My.Resources.Resources.Daco_1006712_png">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MilkDairyManagementSystemVB.My.Resources.Resources.Daco_4289057_png">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MilkDairyManagementSystemVB.My.Resources.Resources.dairymain">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MilkDairyManagementSystemVB.My.Resources.Resources.elmer_canas_jyd3S__XtQs_unsplash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MilkDairyManagementSystemVB.My.Resources.Resources.elmer_canas_jyd3S_png">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MilkDairyManagementSystemVB.My.Resources.Resources.elmer_canas_jyd3S1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MilkDairyManagementSystemVB.My.Resources.Resources.milklogo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MilkDairyManagementSystemVB.My.Resources.Resources.neonbrand_CeKaBz_png">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MilkDairyManagementSystemVB.My.Resources.Resources.ppp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MilkDairyManagementSystemVB.My.Resources.Resources.ron_james_png">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MilkDairyManagementSystemVB.My.Resources.Resources.searchacc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MilkDairyManagementSystemVB.My.Resources.Resources.searchrec">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
